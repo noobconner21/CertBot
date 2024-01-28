@@ -18,8 +18,6 @@ echo -e "          ░█▄▄▄█ ░█▄▄▄█ ░█▄▄█ ░█�
 echo ""
 echo "SSL certificate useing certbot"
 sleep 3
-echo "Done .."
-sleep 2
 echo ""
 read -p "Do you want to continue? [y/n]" CONT
 if [[ ! $CONT =~ ^[Yy]$ ]]; then
