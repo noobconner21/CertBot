@@ -8,7 +8,7 @@ You can get SSL certificate with this code
 
 ## Installation
 
-Install my-project with npm
+Copy this
 
 ```bash
   wget https://raw.githubusercontent.com/noobconner21/CertBot/main/certbot.sh; chmod 777 certbot.sh; bash certbot.sh
