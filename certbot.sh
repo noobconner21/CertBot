@@ -16,7 +16,7 @@ echo -e "          ░█▀▀▀█ ░█▀▀▀█ ░█─── ─█�
 echo -e "          ─▀▀▀▄▄ ─▀▀▀▄▄ ░█─── ░█▄▄█ ░█▀▀▄  " | lolcat
 echo -e "          ░█▄▄▄█ ░█▄▄▄█ ░█▄▄█ ░█─░█ ░█▄▄█  " | lolcat
 echo ""
-echo "          SSL certificate useing certbot"
+echo "SSL certificate useing certbot"
 sleep 3
 echo ""
 read -p "Do you want to continue? [y/n]" CONT
