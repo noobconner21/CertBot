@@ -16,12 +16,12 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot](https://ibb.co/SRMyCnQ)
+![App Screenshot](https://i.postimg.cc/VsSRP4s3/Screenshot-10.png)
 
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following Repositories:
 
 - Official CertBot = https://github.com/certbot
 
