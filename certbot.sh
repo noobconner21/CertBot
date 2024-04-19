@@ -2,7 +2,7 @@
 #root check
 
 if ! [ $(id -u) = 0 ]; then
-   echo -e "${RED}Plese run the script with root privilages!${ENDCOLOR}"
+   echo -e "Plese run the script with root privilages!"
    exit 1
 fi
 
@@ -43,9 +43,11 @@ echo ""
 echo ""
 echo "If you want to copy the public key and the private key, copy the path as below"
 echo ""
-echo "~ Public Key = /etc/letsencrypt/live/your_domain/fullchain.pem"
-echo "~ Private Key = /etc/letsencrypt/live/your_domain/privkey.pem"
+echo "==============================================================="
 echo ""
+echo "~ Public Key = /etc/letsencrypt/live/$domain/fullchain.pem"
+echo "~ Private Key = /etc/letsencrypt/live/$domain/privkey.pem"
 echo ""
+echo "==============================================================="
 echo ""
 echo " 2019-2024 Copyright | SSLaB LK Dev. Team"
