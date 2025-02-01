@@ -11,7 +11,7 @@ You can get SSL certificate with this code
 Copy this
 
 ```bash
-  wget https://raw.githubusercontent.com/noobconner21/CertBot/main/certbot.sh; chmod 777 certbot.sh; bash certbot.sh
+wget https://raw.githubusercontent.com/noobconner21/CertBot/main/certbot.sh; chmod 777 certbot.sh; bash certbot.sh
 ```
     
 ## Screenshots
